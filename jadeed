@@ -5,9 +5,9 @@
 #EXTINF:9.400000,
 http://iptv-supplier.com:8000/live//eezz12mn/LZ3Om4p70z/667.ts
 #EXTINF:10.560000,
-/hls/eezz12mn/LZ3Om4p70z/667/667_3866.ts
+http://iptv-supplier.com:8000/live//eezz12mn/LZ3Om4p70z/667.ts
 #EXTINF:9.600000,
-/hls/eezz12mn/LZ3Om4p70z/667/667_3867.ts
+http://iptv-supplier.com:8000/live//eezz12mn/LZ3Om4p70z/667.ts
 #EXTINF:10.040000,
 /hls/eezz12mn/LZ3Om4p70z/667/667_3868.ts
 #EXTINF:10.840000,
